@@ -4,7 +4,7 @@ verde='\033[01;32m'
 amarelo='\033[01;33m'
 branco='\033[01;37m'
 figlet "Payloader"
-echo "	==========- Created by unknwhp -=========="
+echo "============- Created by unknwhp -============"
 echo
 echo
 echo "$azul [*]$branco starting ..."
